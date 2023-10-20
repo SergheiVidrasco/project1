@@ -1,0 +1,10 @@
+1. Create a GitHub account using your full name and a recognisable photo of you.
+2. Do not accept the assignment before your lab starts otherwise (-20%)
+3. Accept the git classroom assignment using your GitHub account.
+https://classroom.github.com/a/4I_iFvB6
+4. Create a folder for the assignment
+(perhaps desktop : remember to copy to OneDrive at the end)
+5. Launch Git Bash in that folder
+6. Use commands, take screen shots [<alt><PrtScr>] write summary of command and usage in
+normal English, save txt to script text file and text and screen shots to word document.
+7. When finished save word doc as PDF
